@@ -31,11 +31,6 @@ ul.description/*class為description的ul*/{
     height: 700px;/*區塊高度*/
 }
 
-iframe/*不特別指定class或id的iframe*/{
-    width: 100%;/*物件寬度*/
-    height: inherit;/*物件高度*/
-}
-
 h1.other/*class是other的h1*/{
     text-align: center;/*文字置中*/
     font-size: 48px;/*字體大小*/
